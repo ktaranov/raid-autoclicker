@@ -1,12 +1,26 @@
 # Basic Raid Auto Clicker
 
-If you are using windows use rsl helper or bluestacks. These tools are much more advanced and easier to use.
+!Attention
+
+If you have a windows machine use [rsl helper](https://github.com/FarbstoffRSL/RSL-Helper) or [bluestacks](https://www.bluestacks.com/). These tools are much more advanced and easier to use.
+
+---
 
 For us mac users this is a basic set of click actions that are repeated.
 
 use script `click` when you want to use specific amounts of energy or you don't want to lose refilled energy while sleeping.
 
-use script `clickWithGems` to run a dungoen infinitely or as long as you have gems.
+use script `clickWithGems` to replay a dungoen using gems to refill.
+
+## tl;dr
+
+run
+
+`watch -n 20 ./click`
+
+or
+
+`watch -n 20 ./clickWithGems`
 
 ## Setup:
 
