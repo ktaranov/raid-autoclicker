@@ -1,0 +1,9 @@
+#!bash
+
+if [ "$1" == "click" ]; then
+    gcc -w -o click source/click.m -framework ApplicationServices -framework Foundation
+    echo "compiled click.m"
+else
+    gcc -w -o clickWithGems source/clickWithGems.m -framework ApplicationServices -framework Foundation
+    echo "compiled clickWithGems.m"
+fi
