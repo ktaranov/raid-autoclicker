@@ -59,7 +59,7 @@ Exit the script with `control + c`
 
 ## If things don't work
 
-The scripts are tested with a 13inch mac book. If you have different sized monitors this might not work. In that case adust where the script clicks.
+The scripts are tested with a 13inch mac book. If you have different sized monitors this might not work. In that case adjust where the script clicks.
 
 You can check your screen coordinates by pressing `command + shift + 4`
 

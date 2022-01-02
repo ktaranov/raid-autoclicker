@@ -1,4 +1,4 @@
-#!bash
+#!/bin/bash
 
 if [ "$1" == "click" ]; then
     gcc -w -o click source/click.m -framework ApplicationServices -framework Foundation
